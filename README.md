@@ -1,4 +1,4 @@
-# Treinos Frontend
+# FIT.IA
 
 Aplicação web completa para gestão de planos de treino personalizados com assistente de IA. Desenvolvida para o projeto Bootcamp Treinos do FSC.
 
